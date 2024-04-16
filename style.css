@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    /* Background color for the entire page / } #container { text-align: center; } #countdown { font-size: 24px; background-color: white; / Background color for the countdown box */
+    padding: 20px;
+    border-radius: 10px;
+}
